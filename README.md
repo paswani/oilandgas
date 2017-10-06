@@ -1,3 +1,10 @@
+Welcome to the Oil and Gas project repository from Microsoft.
+
+You will find code base for solutions relevant to the Oil and Gas, Manufacturing and Energy Industry here. 
+These are templates that you can use, customize and refine based on your projects.
+
+
+=================================================
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/paswani/oilandgas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
